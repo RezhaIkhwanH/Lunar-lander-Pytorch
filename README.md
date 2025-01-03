@@ -6,8 +6,15 @@ Proyek ini merupakan implementasi dari simulasi Lunar Lander menggunakan library
 
 Berikut adalah demo singkat dari simulasi:
 
+### Demo tanpa LSTM (Pytorch)
+
 ![Lunar Lander GYM Demo](./demo.gif)
 
+### Demo dengan LSTM (Tensorflow)
+
+![Lunar Lander GYM Demo](./demo dengan LSTM.gif)
+
+di pembaharuan ini saya menambah kan model dengan LSTM sehinga model dapat belajar dari urutan kejadian sebelum nya untuk yang LSTM ini menggunakan Tensorflow
 
 ## Fitur
 
@@ -22,3 +29,4 @@ Untuk menjalankan proyek ini, ikuti langkah-langkah berikut:
 1. Clone repositori ini:
    ```bash
    git clone https://github.com/username/LunarLanderGymPyTorch.git
+   ```
