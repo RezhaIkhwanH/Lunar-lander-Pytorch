@@ -12,7 +12,7 @@ Berikut adalah demo singkat dari simulasi:
 
 ### Demo dengan LSTM (Tensorflow)
 
-![Lunar Lander GYM Demo](./demo dengan LSTM.gif)
+![Lunar Lander GYM Demo](./demo_dengan_LSTM.gif)
 
 di pembaharuan ini saya menambah kan model dengan LSTM sehinga model dapat belajar dari urutan kejadian sebelum nya untuk yang LSTM ini menggunakan Tensorflow
 
